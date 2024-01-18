@@ -1,0 +1,10 @@
+.calander{
+    display: grid;
+    grid-row: 100px;
+    grid-column: 100px;
+    border: 2px solid black;
+}
+.one{
+    grid-column:3/6;
+
+}
